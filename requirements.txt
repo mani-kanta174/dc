@@ -1,0 +1,7 @@
+manim
+manim-voiceover
+openai
+langchain
+langgraph
+pydantic
+python-dotenv
